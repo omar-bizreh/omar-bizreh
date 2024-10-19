@@ -27,6 +27,5 @@
 
 <p>
 <a href="https://stackoverflow.com/users/3104287/justadev"><img alt="Stackoverflow" src="https://img.shields.io/badge/Stackoverflow-gray?style=flat-square&logo=stackoverflow"></a>
-<a href="mailto:sliding_xp@protonmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sliding_xp@protonmail.com-blue?style=flat-square&logo=protonmail"></a>
 <a href="https://www.youtube.com/channel/UCL7mq7gzHbwwXi8ksBVFPnQ"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-gray?style=flat-square&logo=youtube"></a>
 </p>
